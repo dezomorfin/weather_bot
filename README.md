@@ -2,7 +2,7 @@
 # About
 This telegram bot working with currency weather api  
 This telegram bot show weather parameters when you send city name  
-For this goal i used aogram
+For this goal i used aoigram
 
 ### How to run?:
 
